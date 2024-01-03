@@ -14,6 +14,30 @@
 </div>
  
  <br>
+
+### Bio!
+<p>Quem Sou:
+
+Me chamo Paulo Héber, e minha paixão pela programação nasceu durante a faculdade. Descobri meu entusiasmo por criar soluções inovadoras e decidi me aprofundar no universo da programação.
+
+Estudo Atual:
+
+Atualmente, foco meus estudos em JavaScript, React, Redux e TypeScript, mas não exito em aprender novas tecnologias.
+
+Objetivo Profissional:
+
+Busco me tornar um desenvolvedor full stack, transcendo barreiras entre front-end e back-end. Acredito que a tecnologia tem o poder de transformar vidas, e meu objetivo é contribuir para essa transformação positiva.
+
+Soft Skills:
+
+Minha experiência na Araújo Móveis me proporcionou habilidades interpessoais valiosas. Encaro desafios como oportunidades de crescimento, refletindo uma mentalidade de melhoria contínua.
+
+Estou comprometido em enfrentar os desafios do desenvolvimento de software com entusiasmo e criatividade, contribuindo para a inovação na área de programação.
+
+Fale comigo:
+Wpp: (88) 99860-2285
+Gmail: pauloheber2017@gmail.com</p>
+
  
   ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
  
