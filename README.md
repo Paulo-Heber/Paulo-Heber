@@ -35,7 +35,10 @@ Minha experiência na Araújo Móveis me proporcionou habilidades interpessoais 
 Estou comprometido em enfrentar os desafios do desenvolvimento de software com entusiasmo e criatividade, contribuindo para a inovação na área de programação.
 
 Fale comigo:
+
+
 Wpp: (88) 99860-2285
+
 Gmail: pauloheber2017@gmail.com</p>
 
  
